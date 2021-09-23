@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=FD:33:FE:24:5B:B2:EE:39:D1:2C:2D:CE:03:CB:A2:4D:BA:04:85:37%3Behipper
+tn.app.danghoc.eatitt_s
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    etn.app.danghoc.eatitt_shipper
+
+    SHA-1 certificate fingerprint:
+    FD:33:FE:24:5B:B2:EE:39:D1:2C:2D:CE:03:CB:A2:4D:BA:04:85:37
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDuHZVu9CES-fDz891ZPuluH0k-JIlsrV8</string>
+</resources>
